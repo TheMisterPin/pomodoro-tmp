@@ -1,5 +1,6 @@
 {
   "name": "pomodoro-tmp",
+  "description": "A simple pomodoro timer app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
