@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pomodoro Todo List 🕒📋
 
-## Getting Started
+Welcome to Pomodoro Todo List app! This app combines a sleek pomodoro timer with a versatile to-do list, aiding you in staying focused and organized throughout your day. Whether you're tackling work tasks, keeping up with your fitness routine, or scheduling some downtime, this app is here to help you manage it all in style!
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Pomodoro Timer**: Cycle through focus and pause intervals automatically with customizable settings for durations and repetitions. 🍅
+- **Dynamic To-Do List**: Add tasks and subtasks, categorize them, and mark them as completed with just a few clicks. ✅
+- **Stylish UI**: Enjoy a unique "neobrutalist" design that's both eye-catching and functional. 🎨
+- **Fully Responsive**: Designed to work seamlessly on both desktop and mobile devices. 📱💻
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: The React framework for production.
+- **TypeScript**: Strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+- **ShadcnUI**: A custom UI library for creating unique, neobrutalist designs.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contributing
 
-## Learn More
+Contributions are welcome! If you have a suggestion or an improvement, feel free to fork the repo and submit a pull request. You can also open an issue with the tag "enhancement". Don't forget to give the project a star! ⭐
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgments
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Inspired by the traditional Pomodoro Technique for productivity.
+- Thanks to [Lucide Icons](https://lucide.dev/) for the beautiful iconography.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Happy tasking! 🚀
